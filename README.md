@@ -1,0 +1,2 @@
+# sygnaly
+analiza sygnałów
